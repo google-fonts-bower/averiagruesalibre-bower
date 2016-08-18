@@ -1,0 +1,17 @@
+{
+    "name": "averiagruesalibre-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Dan Sayers"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/averiagruesalibre-bower.git"
+    },
+    "description": "Averia Gruesa Libre font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
